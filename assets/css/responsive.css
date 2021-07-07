@@ -1,0 +1,16 @@
+/* Medium Layout: 1280px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+}
+/* Tablet & mobile Layout: 768px. */
+@media (max-width: 991px) {
+}
+
+/* Tablet Layout: 768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+/* Mobile Layout: 320px. */
+@media (max-width: 767px) {
+}
+/* Wide Mobile Layout: 480px. */
+@media (min-width: 480px) and (max-width: 767px) {
+}
